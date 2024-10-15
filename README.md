@@ -36,9 +36,26 @@ The project includes several visualizations:
 
 ## Analysis Highlights
 ### Product Sales Analysis
-1. AAA Batteries were the top-selling product.
-2. Possible reasons for high AAA Battery sales:
-   
-- Wide use in various electronic devices
-- Relatively low cost compared to other products
-- Frequent need for replacement
+- AAA Batteries were the top-selling product.
+- Possible reasons for high AAA Battery sales:
+   1. Wide use in various electronic devices
+   2. Relatively low cost compared to other products
+   3. Frequent need for replacement
+### Price vs. Quantity Analysis
+- Created a dual-axis chart to compare the quantity ordered and price for each product.
+- Observed an general inverse relationship between price and quantity sold.
+- High-priced items (e.g., Macbook Pro Laptop) had lower quantities sold.
+- Low-priced items (e.g., AAA Batteries) had higher quantities sold.
+
+## Future Work
+- Incorporate more advanced statistical analysis
+- Add predictive modeling for future sales forecasting
+- Create an interactive dashboard for real-time sales monitoring
+- Analyze seasonal trends in product sales
+- Investigate the impact of marketing campaigns on sales of specific products
+
+## Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
+
+## Contact
+Anh Kiet Tran - anhkiet2808@gmail.com
